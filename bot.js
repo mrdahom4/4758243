@@ -39,7 +39,7 @@ j = 1;
             j = -1;    
       }    
        i = i+j;    
-        client.user.setGame(setGame[i],`Playing`);    
+        client.user.setGame(setGame[i],`PLAYING`);    
 }, ms);    
     
 }); 
